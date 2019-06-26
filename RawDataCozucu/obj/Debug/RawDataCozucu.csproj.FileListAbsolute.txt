@@ -1,0 +1,20 @@
+C:\Users\Yagmur\Desktop\RawDataCozucu\RawDataCozucu\bin\Debug\RawDataCozucu.exe.config
+C:\Users\Yagmur\Desktop\RawDataCozucu\RawDataCozucu\bin\Debug\RawDataCozucu.exe
+C:\Users\Yagmur\Desktop\RawDataCozucu\RawDataCozucu\bin\Debug\RawDataCozucu.pdb
+C:\Users\Yagmur\Desktop\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.csprojAssemblyReference.cache
+C:\Users\Yagmur\Desktop\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.Form1.resources
+C:\Users\Yagmur\Desktop\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.Properties.Resources.resources
+C:\Users\Yagmur\Desktop\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.csproj.GenerateResource.cache
+C:\Users\Yagmur\Desktop\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.csproj.CoreCompileInputs.cache
+C:\Users\Yagmur\Desktop\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.exe
+C:\Users\Yagmur\Desktop\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.pdb
+E:\Yaz lab 1\RawDataCozucu\RawDataCozucu\bin\Debug\RawDataCozucu.exe.config
+E:\Yaz lab 1\RawDataCozucu\RawDataCozucu\bin\Debug\RawDataCozucu.exe
+E:\Yaz lab 1\RawDataCozucu\RawDataCozucu\bin\Debug\RawDataCozucu.pdb
+E:\Yaz lab 1\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.csprojAssemblyReference.cache
+E:\Yaz lab 1\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.Form1.resources
+E:\Yaz lab 1\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.Properties.Resources.resources
+E:\Yaz lab 1\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.csproj.GenerateResource.cache
+E:\Yaz lab 1\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.csproj.CoreCompileInputs.cache
+E:\Yaz lab 1\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.exe
+E:\Yaz lab 1\RawDataCozucu\RawDataCozucu\obj\Debug\RawDataCozucu.pdb
